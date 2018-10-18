@@ -1,6 +1,6 @@
 Bitcoin Cash regtest
 =====================
-[![Build Status](https://travis-ci.org/slashrsm/bitcoin-cash-regtest.svg?branch=master)](https://travis-ci.com/slashrsm/bitcoin-cash-regtest)
+[![Build Status](https://travis-ci.com/slashrsm/bitcoin-cash-regtest.svg?branch=master)](https://travis-ci.com/slashrsm/bitcoin-cash-regtest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/slashrsm/bitcoin-cash-regtest.svg?maxAge=2592000)](https://hub.docker.com/r/slashrsm/bitcoin-cash-regtest)
 
 Docker images for Bitcoin Cash regtest. Let you run the Bitcoin Cash regtest in no time.
